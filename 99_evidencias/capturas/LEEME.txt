@@ -1,0 +1,1 @@
+Colocar aquí las capturas de cada notebook ejecutado en Databricks (00_ingesta, 01_limpieza, 02_analisis, 02b_optimizacion, 03_seguridad).
