@@ -13,7 +13,7 @@ Uniciencia · Big Data · Docente: Ing. Jacksson Sonny Gonzalez Bayona · Herram
 | `99_evidencias` | Informe, actas y capturas | 1-3 |
 
 ## Cómo reproducir
-1. Descargar los 4 CSV de https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data (descarga registrada: 6 de septiembre de 2026).
+1. Descargar los 4 CSV de https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data (descarga registrada: 6 de septiembre de 2026; Kaggle exige sesión, por lo que se usó un espejo público en GitHub, `vicky60629/Walmart-Store-Sales-Forecasting`, con el mismo contenido).
 2. Subirlos a `/Volumes/workspace/default/proyecto_integrador_grupo03/` (`train.csv` se subió comprimido como `train.csv.gz`).
 3. Importar los notebooks `.py` en Databricks y correrlos en orden: `00_ingesta`, `01_limpieza`, `02_analisis`, `03_seguridad`, `02b_optimizacion`.
 
