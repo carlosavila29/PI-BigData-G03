@@ -7,7 +7,7 @@
 # MAGIC La tipificación y la limpieza son la capa plata (`01_limpieza`).
 # MAGIC
 # MAGIC - **Fuente oficial:** Kaggle, Walmart Recruiting - Store Sales Forecasting, https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data
-# MAGIC - **Fecha de descarga:** _completar (DD/MM/AAAA)_
+# MAGIC - **Fecha de descarga:** 06/09/2026
 # MAGIC - **Destino:** Unity Catalog, `workspace.default`
 
 # COMMAND ----------
